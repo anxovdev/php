@@ -1,0 +1,7 @@
+FC Barcelona#Lamine Yamal#Barcelona#102000000
+Real Madrid#Vinicius#Madrid#120000000
+Manchester United#Wayne Rooney#Manchester#75000000
+Bayern Munich#Robert Lewandowski#Munich#85000000
+Paris Saint-Germain#Neymar#París#90000000
+Liverpool#Mohamed Salah#Liverpool#95000000
+Arsenal#Bukayo Saka#Londres#87000000

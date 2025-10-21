@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo formularios</title>
+</head>
+<body>
+    <form action="response.php" method="POST">
+        <label for="name">
+            Nombre
+        </label><br>
+        <input type="text" name="name"><br>
+        <label for="email">
+            Email
+        </label><br>
+        <input type="email" name="email"> 
+        <br>
+        <br>
+        <input type="submit" value="Enviar Datos">
+    </form>
+<hr>
+    <form action="contarNumeros.php" method="post">
+        <label for="limit">
+            Numero limite
+        </label>
+        <br>
+        <input type="number" name="limit">
+        <br><br>
+        <input type="submit" value="Subir datos">
+    </form>
+</body>
+</html>
