@@ -9,6 +9,7 @@ $notas[2] = 6.5;
 $notas[3] = 9.0;
 $notas[4] = 7.8;
 
+// Comentario uno
 // Inicializamos el contador para el while
 $i = 0;
 while ($i < count($estudiantes)) {
@@ -16,3 +17,5 @@ while ($i < count($estudiantes)) {
     $i++;
 }
 ?>
+
+// Comentario uno
