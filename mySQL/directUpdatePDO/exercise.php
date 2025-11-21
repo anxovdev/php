@@ -1,10 +1,10 @@
-<?php 
-    $servername = "localhost";
+<?php
+$servername = "localhost";
 $username = "wuser";
 $password = "abc123.";
 $myDB = "world";
 
-    try {
+try {
 
   //Open
 
@@ -35,7 +35,7 @@ $myDB = "world";
 
   echo "<br>Number of updated records: " . $num;
 
-} catch(PDOException $e) {
+} catch (PDOException $e) {
 
   echo "Connection failed: " . $e->getMessage();
 
