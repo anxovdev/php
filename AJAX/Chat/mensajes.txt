@@ -1,0 +1,4 @@
+Usuario1:Hola!
+Usuario2:Adios
+Usuario1:Porque?
+Usuario2:Porque si
